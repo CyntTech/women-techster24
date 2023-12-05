@@ -8,6 +8,6 @@ function evenNumber(even) {
 }
 
 console.log(evenNumber(4));
-console.log(evenNumber(5));
 console.log(evenNumber(6));
-console.log(evenNumber(7));
+console.log(evenNumber(8));
+console.log(evenNumber(10));
